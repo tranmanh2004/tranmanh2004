@@ -63,16 +63,3 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
 
 </div>
-
-## 💭 Quote of the Day
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tranmanh2004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  
-  **"Code is like humor. When you have to explain it, it's bad."** 💻✨
-</div>
