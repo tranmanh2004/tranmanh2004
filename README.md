@@ -53,11 +53,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tranmanh2004&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tranmanh2004&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
 ## 📫 Connect with Me
 
 <div align="center">
