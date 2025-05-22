@@ -1,20 +1,15 @@
-# Hi there, I'm [Your Name]! 👋
-
-## Open Source Contributor
+# Hi there, I'm Mạnh! 👋
 
 ---
 
 ## 🚀 About Me
-- I'm currently working on [Your Current Project/Company]
-- I'm currently learning [Technology/Skill you're learning]
-- I love to explore new tech trends and contribute to open-source projects! ✨
-
+- I'm currently learning in UET
 ---
 
 ## 🛠️ Tech Stack
 
 ### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tranmanh2004&layout=compact&theme=dark)
 
 ### Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -28,12 +23,12 @@
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tranmanh2004&show_icons=true&theme=dark)
 
 ---
 
 ## 📫 How to Reach Me
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](your-facebook-link)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/tran.manh.338631/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](manhsile@gmail.com)
 
 ---
